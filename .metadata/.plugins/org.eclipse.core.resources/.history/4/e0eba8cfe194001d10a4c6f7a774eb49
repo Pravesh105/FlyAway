@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+input[type=text], input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=submit], input[type=Login] {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input:hover {
+  opacity: 0.5;
+}
+
+body {
+ background-image: url("https://img.freepik.com/free-vector/border-template-with-airplane-flying-sky_1308-34077.jpg?w=996&t=st=1673793119~exp=1673793719~hmac=050de5f3ff7355db5cf54165885cd826a694fd08c033704d10bd00c1c74a2067");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+
+
+
+

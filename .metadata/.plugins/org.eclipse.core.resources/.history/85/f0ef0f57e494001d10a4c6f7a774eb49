@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+input[type=text], input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=submit], input[type=Login] {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input:hover {
+  opacity: 0.5;
+}
+
+body {
+ background-image: url("https://img.freepik.com/free-vector/airplane-air-poster_1284-9439.jpg?w=996&t=st=1673792731~exp=1673793331~hmac=cc40b6efe69219a6bc2c842e6e91db5e97cf695152309f42ac33a808070986a6");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+
+
+}
+
+
+
+

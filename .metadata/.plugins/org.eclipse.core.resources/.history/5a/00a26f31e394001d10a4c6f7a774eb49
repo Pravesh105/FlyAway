@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+input[type=text], input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input[type=submit], input[type=Login] {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+input:hover {
+  opacity: 0.5;
+}
+
+body {
+ background-image: url("https://img.freepik.com/free-photo/low-angle-shot-airplane-flying-closer-daytime_181624-41347.jpg?w=1060&t=st=1673793828~exp=1673794428~hmac=56d02660bffa77620c8cc247d893002da737d48e2087ec4e0cd9fc749e0b5938");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ widows: 100%;
+
+}
+
+
+
+
